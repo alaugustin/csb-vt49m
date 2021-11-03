@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://alaugustin.github.io/csb-vt49m/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://alaugustin.github.io/csb-vt49m/static/js/main.c1bd34c9.chunk.js",
+    "main.js.map": "https://alaugustin.github.io/csb-vt49m/static/js/main.c1bd34c9.chunk.js.map",
+    "runtime-main.js": "https://alaugustin.github.io/csb-vt49m/static/js/runtime-main.7df7907f.js",
+    "runtime-main.js.map": "https://alaugustin.github.io/csb-vt49m/static/js/runtime-main.7df7907f.js.map",
+    "static/js/2.a4ba2aed.chunk.js": "https://alaugustin.github.io/csb-vt49m/static/js/2.a4ba2aed.chunk.js",
+    "static/js/2.a4ba2aed.chunk.js.map": "https://alaugustin.github.io/csb-vt49m/static/js/2.a4ba2aed.chunk.js.map",
+    "index.html": "https://alaugustin.github.io/csb-vt49m/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://alaugustin.github.io/csb-vt49m/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.a4ba2aed.chunk.js.LICENSE.txt": "https://alaugustin.github.io/csb-vt49m/static/js/2.a4ba2aed.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7df7907f.js",
+    "static/js/2.a4ba2aed.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.c1bd34c9.chunk.js"
+  ]
+}
